@@ -1,5 +1,5 @@
-# Hi, I'm Başar👋
-## Game Developer
+#                                                   Hi, I'm Başar👋
+##                                                  Game Developer
 
 - I'm currently learning **Unity**
 - 👨‍💻 All of my projects are available at https://basarekinci.itch.io

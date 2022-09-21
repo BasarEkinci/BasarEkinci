@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Başar👋 </h1>
+<h1 align="center"> Hi, I'm Başar </h1>
 <h2 align="Center"> Game Developer </h2>
 
 - I'm currently learning **Unity**

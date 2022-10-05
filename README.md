@@ -4,7 +4,7 @@
 
 - I'm currently learning **Unity**
 - 👨‍💻 All of my projects are available at **https://basarekinci.itch.io**
-- 📫 You can reach me here : **basarekinci@outlook.com**
+- 📫 You can reach me here : **basarekinci02@outlook.com**
 
 ### **Languages and Tools:** 
 ![c-sharp](https://user-images.githubusercontent.com/88886052/191540683-7c5680f9-5b97-42bf-aa6b-50d11a364b9b.png)

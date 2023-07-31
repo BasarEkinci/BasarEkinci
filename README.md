@@ -15,9 +15,6 @@ I'm software engineering student who passions with games and game development<br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BasarEkinci&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BasarEkinci&icon=0&color=1)](https://visitcount.itsvg.in)
 

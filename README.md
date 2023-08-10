@@ -1,5 +1,5 @@
 # 🪪 About Me:
-🧑🏻‍🎓 I'm software engineering student who passions with games and game development<br>🕹️ I'm currently learning and doing game development<br>🗃️ All of my projects aviable at here : https://basarekinci.itch.io<br>📬 You can contact me here : https://linktr.ee/basarekinci
+🧑🏻‍🎓 I'm software engineering student who passions with games and game development<br>🕹️ I'm currently learning and doing game development<br>🗃️ All of my projects aviable at here : https://basarekinci.itch.io<br>📬 You can contact me here : basarekinci02@outlook.com
 
 
 ## 🌐 Socials:

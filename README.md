@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Basar Ekinci</h1>
 <h3 align="center">A passionate Software Engineering student interested in game development</h3>
-<img align="right" alt="Coding" width="400" src="https://img-blog.csdnimg.cn/direct/39dddea4e99d4ae8bb739adf8cec9f91.png">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 🌱 I’m currently learning **Unity, C#, Game Development**
 

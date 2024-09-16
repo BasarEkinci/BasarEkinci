@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Basar Ekinci</h1>
 <h3 align="center">A passionate Software Engineering student interested in game development</h3>
+<img align="right" alt="Coding" width="400" src="https://img-blog.csdnimg.cn/direct/39dddea4e99d4ae8bb739adf8cec9f91.png">
 
 - 🌱 I’m currently learning **Unity, C#, Game Development**
 
@@ -26,7 +27,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/256/3291/3291669.png?semt=ais_hybrid" alt="java" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">Tools:</h3>

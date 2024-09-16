@@ -32,7 +32,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/></a>  
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="40"/></a>  
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5969/5969346.png" alt="unity" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>

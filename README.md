@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt=""/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basarekinci&label=PROFILE+VIEWS&color=ff69b4&style=flat-square" alt="basarekinci" />
+  <a href="https://wakatime.com/@465266a2-c5b8-49b2-9b37-d7cb4f1deac2" > <img src="https://wakatime.com/badge/user/465266a2-c5b8-49b2-9b37-d7cb4f1deac2.svg" alt="basarekinci" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Basar Ekinci</h1>
 <h3 align="center">A passionate Software Engineering student interested in game development</h3>
@@ -38,8 +42,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basarekinci&show_icons=true&locale=en&layout=compact&theme=dark" alt="basarekinci" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basarekinci&show_icons=true&locale=en&layout=compact&theme=dark" alt="basarekinci" height="150" />
+  <img align="center" src="https://streak-stats.demolab.com?user=basarekinci&theme=dark&date_format=j%20M%5B%20Y%5D" alt="basarekinci" height="150"/>
 </p>
-
-
-

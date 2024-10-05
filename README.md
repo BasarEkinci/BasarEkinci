@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/basarekincii" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/14417/14417709.png?semt=ais_hybrid" alt="basarekincii" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/basar-ekinci" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/3992/3992606.png?semt=ais_hybrid" alt="basar-ekinci" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ismail-basar-ekinci-446674202/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/3992/3992606.png?semt=ais_hybrid" alt="basar-ekinci" height="40" width="40" /></a>
 <a href="https://instagram.com/basar.ekincii" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/2111/2111463.png?semt=ais_hybrid" alt="basar.ekincii" height="40" width="40" /></a>
 <a href="https://discord.gg/basarekinci#0538" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/5968/5968756.png?semt=ais_hybrid" alt="basarekinci#0538" height="40" width="40" /></a>
 </p>

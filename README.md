@@ -43,5 +43,4 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basarekinci&show_icons=true&locale=en&layout=compact&theme=dark" alt="basarekinci" height="150" />
-  <img align="center" src="https://streak-stats.demolab.com?user=basarekinci&theme=dark&date_format=j%20M%5B%20Y%5D" alt="basarekinci" height="150"/>
 </p>

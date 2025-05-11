@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Unity, C#, Game Development**
 
-- 👨‍💻 Check out all of my projects at [https://basarekinci.itch.io](https://basarekinci.itch.io)
+- 👨‍💻 Check out some of my projects at [https://basarekinci.itch.io](https://basarekinci.itch.io)
 
 - 💬 Ask me about **Unity, C#, Game Design**
 

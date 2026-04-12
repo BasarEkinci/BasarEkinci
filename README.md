@@ -8,7 +8,6 @@
 
 <h1 align="center">Hi 👋, I'm Basar Ekinci</h1>
 <h3 align="center">A passionate Software Engineer interested in game development</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **Unity, C#, Game Development**
 
@@ -39,8 +38,4 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="40"/></a>  
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5969/5969346.png" alt="unity" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basarekinci&show_icons=true&locale=en&layout=compact&theme=dark" alt="basarekinci" height="150" />
 </p>

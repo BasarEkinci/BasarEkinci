@@ -6,7 +6,7 @@
   <a href="https://github.com/BasarEkinci">
     <img src="https://img.shields.io/github/followers/BasarEkinci?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6366F1" alt="GitHub followers">
   </a>
-  <a href="https://linkedin.com/in/ismail-basar-ekinci">
+  <a href="https://linkedin.com/in/ismail-basar-ekinci-446674202">
     <img src="https://img.shields.io/badge/LINKEDIN-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn">
   </a>
   <a href="https://BasarEkinci.itch.io">
